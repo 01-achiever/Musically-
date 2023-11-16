@@ -1,2 +1,2 @@
-# Musically-
+# Musically
 MY web development project
